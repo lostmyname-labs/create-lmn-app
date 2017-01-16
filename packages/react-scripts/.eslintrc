@@ -1,3 +1,4 @@
 {
-  "extends": "react-app"
+  "plugins": ["lmn"],
+  "extends": "plugin:lmn/default"
 }
