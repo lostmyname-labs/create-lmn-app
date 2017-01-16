@@ -1,0 +1,3 @@
+{
+  "extends": "@lostmyname/stylelint-config-lmn"
+}
